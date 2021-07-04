@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mars.ConsoleApp/1.0.0": {
+        "runtime": {
+          "Mars.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mars.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.AssemblyInfo.cs
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.exe
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.deps.json
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.runtimeconfig.json
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.dll
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\ref\Mars.ConsoleApp.dll
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\bin\Debug\net5.0\Mars.ConsoleApp.pdb
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.dll
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\ref\Mars.ConsoleApp.dll
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.pdb
+C:\Users\Mamba\Documents\Visual Studio 2019\Projects\Mars\Mars.ConsoleApp\obj\Debug\net5.0\Mars.ConsoleApp.genruntimeconfig.cache
